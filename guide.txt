@@ -1,6 +1,9 @@
 git config --global user.email "myid@xyz.com"
 git config --global user.name "Shubham Guha"
-git log --all --decorate --online --graph
+git log --all --decorate --oneline --graph
+
+For changes - 
+git commit -a -m "Following Files"
 
 1. Clone usually done for the first time
 2. git pull 
