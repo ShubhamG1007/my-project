@@ -1,0 +1,6 @@
+git config --global user.email "myid@xyz.com"
+git config --global user.name "Shubham Guha"
+git log --all --decorate --online --graph
+
+1. Clone usually done for the first time
+2. git pull 
